@@ -1,0 +1,24 @@
+2022-07-21 14:33:41 [http-nio-8080-exec-4] INFO  recommend - The user logining successful User(id=1001, username=yjb001, password=ok, creat_time=2022-07-05 09:38:04.0, user_status=1, del=0). Time 2022-07.21:14:33:41.
+2022-07-21 14:34:22 [http-nio-8080-exec-8] INFO  recommend - The user logining successful User(id=1001, username=yjb001, password=ok, creat_time=2022-07-05 09:38:04.0, user_status=1, del=0). Time 2022-07.21:14:34:22.
+2022-07-21 14:35:27 [http-nio-8080-exec-6] INFO  recommend - The user logining successful User(id=1001, username=yjb001, password=ok, creat_time=2022-07-05 09:38:04.0, user_status=1, del=0). Time 2022-07.21:14:35:27.
+2022-07-21 14:35:32 [http-nio-8080-exec-9] INFO  recommend - Successfully loginout user yjb001. Time {}.
+2022-07-21 14:41:45 [http-nio-8080-exec-7] INFO  recommend - The user logining successful User(id=1001, username=yjb001, password=ok, creat_time=2022-07-05 09:38:04.0, user_status=1, del=0). Time 2022-07.21:14:41:45.
+2022-07-21 14:41:58 [http-nio-8080-exec-3] INFO  recommend - Product Good(id=3, name=3123, price=743.74, total=366, length=92.89, width=434.49, heigth=29.28, weigth=604.7, descrip=xWhX2rtAee, creat_time=2002-01-11 12:19:02.0, modify_time=2022-07-21 14:41:58.502, user_id=1001, del=592, shelves=74, img=Fv7hnwbV6B). modification  successfully Time 2022-07.21:14:41:58.
+2022-07-21 14:43:05 [http-nio-8080-exec-8] INFO  recommend - Product 4368. deleted successfully Time 2022-07.21:14:43:05.
+2022-07-21 14:43:07 [http-nio-8080-exec-1] INFO  recommend - Product 4434. deleted successfully Time 2022-07.21:14:43:07.
+2022-07-21 14:45:08 [http-nio-8080-exec-3] INFO  recommend - Product Good(id=34746, name=2132312, price=127.8, total=828, length=916.66, width=114.36, heigth=416.29, weigth=316.31, descrip=oaTjzhhtCt, creat_time=2016-09-14 02:11:35.0, modify_time=2022-07-21 14:45:08.5, user_id=1001, del=57, shelves=337, img=KaAdy5X0WV). modification  successfully Time 2022-07.21:14:45:08.
+2022-07-21 14:45:34 [http-nio-8080-exec-3] INFO  recommend - Product Good(id=7442, name=qqqqid, price=147.68, total=825, length=245.38, width=700.18, heigth=145.09, weigth=539.77, descrip=UqS5kGgp1w, creat_time=2013-12-07 23:58:14.0, modify_time=2022-07-21 14:45:34.889, user_id=1001, del=610, shelves=849, img=sjoOLsXnl1). modification  successfully Time 2022-07.21:14:45:34.
+2022-07-21 14:46:05 [http-nio-8080-exec-1] INFO  recommend - Successfully loginout user yjb001. Time {}.
+2022-07-21 14:47:32 [http-nio-8080-exec-3] INFO  recommend - The user logining successful User(id=1001, username=yjb001, password=ok, creat_time=2022-07-05 09:38:04.0, user_status=1, del=0). Time 2022-07.21:14:47:32.
+2022-07-21 14:49:32 [http-nio-8080-exec-4] INFO  recommend - Successfully loginout user yjb001. Time {}.
+2022-07-21 14:52:56 [http-nio-8080-exec-2] INFO  recommend - The user logining successful User(id=1001, username=yjb001, password=ok, creat_time=2022-07-05 09:38:04.0, user_status=1, del=0). Time 2022-07.21:14:52:56.
+2022-07-21 14:53:07 [http-nio-8080-exec-10] INFO  recommend - Product 3. deleted successfully Time 2022-07.21:14:53:07.
+2022-07-21 14:53:10 [http-nio-8080-exec-2] INFO  recommend - Product 4. deleted successfully Time 2022-07.21:14:53:10.
+2022-07-21 14:53:16 [http-nio-8080-exec-8] INFO  recommend - Successfully loginout user yjb001. Time {}.
+2022-07-21 14:57:23 [http-nio-8080-exec-1] INFO  recommend - The user logining successful User(id=1001, username=yjb001, password=ok, creat_time=2022-07-05 09:38:04.0, user_status=1, del=0). Time 2022-07.21:14:57:23.
+2022-07-21 14:58:45 [http-nio-8080-exec-2] INFO  recommend - Successfully loginout user yjb001. Time {}.
+2022-07-21 14:58:53 [http-nio-8080-exec-6] INFO  recommend - The user logining successful User(id=1001, username=yjb001, password=ok, creat_time=2022-07-05 09:38:04.0, user_status=1, del=0). Time 2022-07.21:14:58:53.
+2022-07-21 14:59:14 [http-nio-8080-exec-8] INFO  recommend - Product Good(id=5, name=78897, price=179.31, total=83, length=247.73, width=411.54, heigth=221.61, weigth=114.36, descrip=BkAaamkrQC, creat_time=2021-03-31 14:54:59.0, modify_time=2022-07-21 14:59:14.038, user_id=1001, del=871, shelves=663, img=3CPgmkaqrs). modification  successfully Time 2022-07.21:14:59:14.
+2022-07-21 14:59:33 [http-nio-8080-exec-4] INFO  recommend - Product 5. deleted successfully Time 2022-07.21:14:59:33.
+2022-07-21 14:59:44 [http-nio-8080-exec-1] INFO  recommend - Product 6. deleted successfully Time 2022-07.21:14:59:44.
+2022-07-21 15:00:45 [http-nio-8080-exec-6] INFO  recommend - Product Good(id=2482, name=8658, price=253.5, total=396, length=132.85, width=284.24, heigth=672.11, weigth=168.57, descrip=Q1iTDaUf6t, creat_time=2014-11-14 17:30:36.0, modify_time=2022-07-21 15:00:45.815, user_id=1001, del=551, shelves=907, img=H6eAm94kBR). modification  successfully Time 2022-07.21:15:00:45.
